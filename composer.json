@@ -1,6 +1,6 @@
 {
   "name": "aixueyuan/pay-to-read-license",
-  "description": "Minimal stub version of pay-to-read-license (only ServiceProvider).",
+  "description": "License key management module for xypp/pay-to-read",
   "type": "flarum-extension",
   "license": "MIT",
   "require": {
@@ -15,7 +15,7 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "Pay To Read · License (Minimal Stub)",
+      "title": "Pay To Read - License",
       "category": "feature",
       "icon": {
         "name": "fas fa-key",
